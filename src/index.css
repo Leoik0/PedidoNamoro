@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("https://img.freepik.com/vetores-gratis/projeto-do-fundo-do-coracao_53876-80091.jpg?size=626&ext=jpg&ga=GA1.1.1059239623.1716136778&semt=ais_user");
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
